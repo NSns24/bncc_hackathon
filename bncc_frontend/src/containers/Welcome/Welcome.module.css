@@ -1,0 +1,42 @@
+.center_container {
+    color: #BDD8FE;
+    text-align: center;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width:60%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.title { 
+    font-size: 40px;
+    font-weight: 700;
+    color: #84B7FF;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.description { 
+    font-size: 14px;
+    padding: 16px 0;
+    text-transform: uppercase;
+}
+
+.casual_title{
+    padding: 8px 0;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.casual_description{
+    padding: 8px 0;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.logoSideDrawer { 
+    width: 350px;
+    height: 200px;
+}

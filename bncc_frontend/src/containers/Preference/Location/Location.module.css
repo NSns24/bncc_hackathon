@@ -1,0 +1,41 @@
+.form_item{ 
+    width : 80%;
+    margin: 16px auto;
+}
+
+.form_label { 
+    font-size: 13px;
+    color:#000;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.form_select { 
+    width : 100%;
+}
+
+.form_row { 
+    display: flex;
+    padding: 8px;
+}
+
+.form_row_label { 
+    flex : 1;
+    text-transform: uppercase;
+    padding:0 8px;
+}
+
+.form_row_input { 
+    flex : 1;
+    width : 25%;
+}
+
+.form_input {
+    flex : 1; 
+    width : 100%;
+}
+
+.form_far_button {
+    width : 80%;
+    margin : 50px auto 0 auto;
+}

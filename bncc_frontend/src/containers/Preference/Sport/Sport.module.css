@@ -1,0 +1,15 @@
+.form_item { 
+    width : 80%;
+    margin: 16px auto;
+}
+
+.form_label { 
+    font-size: 13px;
+    color:#9B9B9B;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.container_margin { 
+    margin:8px 0;
+}

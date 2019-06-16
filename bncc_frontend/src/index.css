@@ -1,0 +1,25 @@
+body {
+  font-family: "Oxygen", sans-serif;
+}
+
+.slick-next:before,
+.slick-prev:before {
+  color: #000000;
+}
+
+.slick-list {
+  text-align: center;
+}
+
+.ant-collapse-content {
+  background-color: rgb(255,255,255) !important;
+}
+
+.ant-layout { 
+  background-color : transparent;
+}
+
+.ant-card-body { 
+  height: 300px !important;
+  overflow: hidden;
+}
